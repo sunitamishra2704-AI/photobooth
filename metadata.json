@@ -1,0 +1,9 @@
+{
+  "name": "Postcard Studio - Photobooth",
+  "description": "Retro photobooth and vintage postcard studio to capture, filter, customise, and print keepsake postcards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
